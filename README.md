@@ -11,8 +11,8 @@ The notebook requires the following python modules:
 
 ## Usage
 The repository can be accessed by typing:
-**git clone https://github.com/hrbates/ASTR-8100-Project.git** <br>
+**git clone https://github.com/hrbates/Stokes-Parameters.git** <br>
 To open the notebook, type:
 **cd stokes parameters** <br>
 Finally, type:
-**python notebook ASTR-8100-Project.ipynb**
+**python notebook stokes-parameters.ipynb**
